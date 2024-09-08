@@ -14,7 +14,7 @@ Installation
 To run the Code Converter App locally, you'll need to have Python and Streamlit installed. Follow these steps:
 
 Clone the repository:
-  git clone https://github.com/your-username/code-converter-app.git
+  git clone https://github.com/Murugavl/Code-Converter.git
 
 Navigate to the project directory:
   cd code-converter-app
