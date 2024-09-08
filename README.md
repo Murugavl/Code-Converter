@@ -1,10 +1,13 @@
 Code Converter App
+
 This is a simple code converter application built using Streamlit, a Python library for creating interactive web applications. The app allows users to convert numbers between different number systems, including binary, decimal, octal, and hexadecimal.
+
 Features
-Convert between binary, decimal, octal, and hexadecimal number systems
-User-friendly interface with dropdown menus and input fields
-Instant conversion results
-Error handling for invalid input values
+
+1. Convert between binary, decimal, octal, and hexadecimal number systems
+2. User-friendly interface with dropdown menus and input fields
+3. Instant conversion results
+4. Error handling for invalid input values
 
 Installation
 
